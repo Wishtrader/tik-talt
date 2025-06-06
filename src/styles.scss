@@ -1,4 +1,4 @@
-@import 'fonts';
+@use 'fonts';
 
 :root {
   --dark-color: #000000;
@@ -31,6 +31,7 @@ body {
   font-weight: 700;
   font-size: 14px;
   line-height: 24px;
+  cursor: pointer;
 }
 
 .h6 {
